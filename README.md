@@ -16,8 +16,8 @@ yarn
 yarn start
 ```
 ## Demo
-<img src="https://user-images.githubusercontent.com/40169051/221352134-d16a18ee-c5e9-4e95-bcb7-00ba6ea453d5.png" >
-<img src="https://user-images.githubusercontent.com/40169051/221352082-60ab1977-7691-4c5b-8291-05da9fe49e2d.png">
+[Please click here to see this app in action](https://codesandbox.io/s/seekho-assesment-oxy1ol)
+
 
 ## Author
 
