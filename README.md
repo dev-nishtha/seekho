@@ -16,7 +16,7 @@ yarn
 yarn start
 ```
 ## Demo
-[Please click here to see this app in action](https://codesandbox.io/s/seekho-assesment-oxy1ol)
+[Please click here to see this app in action](https://oxy1ol.csb.app/)
 
 
 ## Author
