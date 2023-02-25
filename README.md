@@ -15,7 +15,10 @@ yarn
 ```sh
 yarn start
 ```
-
+## Demo
+<span><img src="https://user-images.githubusercontent.com/40169051/221352134-d16a18ee-c5e9-4e95-bcb7-00ba6ea453d5.png">
+<img src="https://user-images.githubusercontent.com/40169051/221352082-60ab1977-7691-4c5b-8291-05da9fe49e2d.png">
+</span>
 ## Author
 
 👤 **Nishtha Srivastava**
